@@ -1,4 +1,4 @@
-## I do opensource.
+## I do opensource
 
 I use vscode, my themes and config will be available. (someday).
 
